@@ -1,13 +1,16 @@
-mydb.txt
-<<<<<<< HEAD
-*.ignore
-*.so
-*.class
-#windows
-*.ini
-*.Thumbs.db
-zhu.txt
-=======
+﻿# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
 
+# Python:
+*.py[cod]
 *.so
->>>>>>> 2e3ba62650634f2f0a08f9d964b88c846a00c991
+*.egg
+*.egg-info
+dist
+build
+
+# My configurations:
+db.ini
+deploy_key_rsa
